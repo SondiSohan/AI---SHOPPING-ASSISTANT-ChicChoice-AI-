@@ -1,5 +1,6 @@
 # AI Shopping Assistant
-ChicChoice AI is an AI-powered shopping assistant designed to enhance the online fashion retail experience by providing personalized clothing recommendations. By leveraging machine learning and data analytics, ChicChoice AI tailors suggestions to each user's unique style and preferences, making shopping easier and more enjoyable.
+ChicChoice AI is an AI Shopping Assistant aimed at enhancing the online shopping experience. The assistant leverages Natural Language Processing (NLP) and Machine Learning (ML) for personalized recommendations and real-time assistance. Addressing common online shopping challenges, the application improves user satisfaction by offering tailored suggestions and immediate support. As a new addition, a Virtual Try-On feature has been integrated, allowing users to visualize clothing items on a virtual model, making shopping more interactive and reducing uncertainty in purchases. This report outlines the problem, implementation, and future potential of the system.
+*
 # AI Shopping Assistant:
 * Revenue Streams:
 Affiliate Marketing: Earning commissions through affiliate marketing by directing users to purchase products from partner stores.
